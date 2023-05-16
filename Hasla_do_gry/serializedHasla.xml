@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHasla xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Kategoria: IT -->
+  <Hasla>
+    <Haslo>komputer</Haslo>
+    <Dificulty>easy</Dificulty>
+    <Kategoria>IT</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>programowanie</Haslo>
+    <Dificulty>medium</Dificulty>
+    <Kategoria>IT</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>kryptografia</Haslo>
+    <Dificulty>hard</Dificulty>
+    <Kategoria>IT</Kategoria>
+  </Hasla>
+
+  <!-- Kategoria: Geografia -->
+  <Hasla>
+    <Haslo>rzeka</Haslo>
+    <Dificulty>easy</Dificulty>
+    <Kategoria>Geografia</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>strefa klimatyczna</Haslo>
+    <Dificulty>medium</Dificulty>
+    <Kategoria>Geografia</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>tektonika płyt</Haslo>
+    <Dificulty>hard</Dificulty>
+    <Kategoria>Geografia</Kategoria>
+  </Hasla>
+  <!-- Kategoria: Historia -->
+  <Hasla>
+    <Haslo>starożytny Egipt</Haslo>
+    <Dificulty>easy</Dificulty>
+    <Kategoria>Historia</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>wojna trzydziestoletnia</Haslo>
+    <Dificulty>medium</Dificulty>
+    <Kategoria>Historia</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>rozbicie dzielnicowe</Haslo>
+    <Dificulty>hard</Dificulty>
+    <Kategoria>Historia</Kategoria>
+  </Hasla>
+  <!-- Kategoria: Nauka -->
+  <Hasla>
+    <Haslo>kwant</Haslo>
+    <Dificulty>easy</Dificulty>
+    <Kategoria>Nauka</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>czarna dziura</Haslo>
+    <Dificulty>medium</Dificulty>
+    <Kategoria>Nauka</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>teoria strun</Haslo>
+    <Dificulty>hard</Dificulty>
+    <Kategoria>Nauka</Kategoria>
+  </Hasla>
+ <!-- Kategoria: Kultura -->
+  <Hasla>
+    <Haslo>muzeum</Haslo>
+    <Dificulty>easy</Dificulty>
+    <Kategoria>Kultura</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>impresjonizm</Haslo>
+    <Dificulty>medium</Dificulty>
+    <Kategoria> Kategoria</Kategoria>
+  </Hasla>  
+  <Hasla>
+    <Haslo>postmodernizm</Haslo>
+    <Dificulty>hard</Dificulty>
+    <Kategoria>Kultura</Kategoria>
+  </Hasla>
+  <!-- Kategoria: Sport -->
+  <Hasla>
+    <Haslo>piłka nożna</Haslo>
+    <Dificulty>easy</Dificulty>
+    <Kategoria>Sport</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>skok o tyczce</Haslo>
+    <Dificulty>medium</Dificulty>
+    <Kategoria>Sport</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>biathlon</Haslo>
+    <Dificulty>hard</Dificulty>
+    <Kategoria>Sport</Kategoria>
+  </Hasla>
+  <!-- Kategoria: Przyroda -->
+  <Hasla>
+    <Haslo>liść</Haslo>
+    <Dificulty>easy</Dificulty>
+    <Kategoria>Przyroda</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>ekosystem</Haslo>
+    <Dificulty>medium</Dificulty>
+    <Kategoria>Przyroda</Kategoria>
+  </Hasla>
+  <Hasla>
+    <Haslo>bioindykacja</Haslo>
+    <Dificulty>hard</Dificulty>
+    <Kategoria>Przyroda</Kategoria>
+  </Hasla>
+  <!-- Kategoria: Filmy -->
+<Hasla>
+  <Haslo>aktor</Haslo>
+  <Dificulty>easy</Dificulty>
+  <Kategoria>Filmy</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>montaż filmowy</Haslo>
+  <Dificulty>medium</Dificulty>
+  <Kategoria>Filmy</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>auteur</Haslo>
+  <Dificulty>hard</Dificulty>
+  <Kategoria>Filmy</Kategoria>
+</Hasla>
+
+<!-- Kategoria: Muzyka -->
+<Hasla>
+  <Haslo>gitara</Haslo>
+  <Dificulty>easy</Dificulty>
+  <Kategoria>Muzyka</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>tonacja</Haslo>
+  <Dificulty>medium</Dificulty>
+  <Kategoria>Muzyka</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>sonata</Haslo>
+  <Dificulty>hard</Dificulty>
+  <Kategoria>Muzyka</Kategoria>
+</Hasla>
+
+<!-- Kategoria: Język -->
+<Hasla>
+  <Haslo>rzeczownik</Haslo>
+  <Dificulty>easy</Dificulty>
+  <Kategoria>Język</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>fonetyka</Haslo>
+  <Dificulty>medium</Dificulty>
+  <Kategoria>Język</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>pragmatyka</Haslo>
+  <Dificulty>hard</Dificulty>
+  <Kategoria>Język</Kategoria>
+</Hasla>
+
+<!-- Kategoria: Matematyka -->
+<Hasla>
+  <Haslo>dodawanie</Haslo>
+  <Dificulty>easy</Dificulty>
+  <Kategoria>Matematyka</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>macierz</Haslo>
+  <Dificulty>medium</Dificulty>
+  <Kategoria>Matematyka</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>całka</Haslo>
+  <Dificulty>hard</Dificulty>
+  <Kategoria>Matematyka</Kategoria>
+</Hasla>
+
+<!-- Kategoria: Sztuka -->
+<Hasla>
+  <Haslo>portret</Haslo>
+  <Dificulty>easy</Dificulty>
+  <Kategoria>Sztuka</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>kubizm</Haslo>
+  <Dificulty>medium</Dificulty>
+  <Kategoria>Sztuka</Kategoria>
+</Hasla>
+<Hasla>
+  <Haslo>art brut</Haslo>
+  <Dificulty>hard</Dificulty>
+  <Kategoria>Sztuka</Kategoria>
+</Hasla>
+
+</ArrayOfHasla>
